@@ -7,4 +7,4 @@ label.pack()
 
 window.mainloop()
 
-print("Adding to github");
+print("Adding to github")
